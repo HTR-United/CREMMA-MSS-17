@@ -11,14 +11,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1722" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1722" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1760" LABEL="DamageZone:hole" DESCRIPTION="block type DamageZone:hole"/>
     <OtherTag ID="LT581" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT588" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="3339"
           HEIGHT="4435"
-          PHYSICAL_IMG_NR="20"
+          PHYSICAL_IMG_NR="18"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -41,12 +41,39 @@
                     VPOS="133"
                     WIDTH="1742"
                     HEIGHT="144">
-            <Shape><Polygon POINTS="854 229 850 140 2588 133 2592 243 2592 255 2532 277 2532 277 2529 277 2529 277 2525 277 2525 277 2525 277 2521 277 2521 277 2521 277 2481 255 2477 255 2462 255 2340 277 2340 277 2336 277 2336 277 2336 277 2248 258 2233 255 2226 258 2189 277 2189 277 2189 277 2185 277 2185 277 2181 277 2181 277 2181 277 2085 258 2078 258 2070 258 1956 273 1956 273 1952 273 1952 273 1948 273 1948 273 1948 273 1919 258 1904 251 1893 258 1871 273 1867 273 1867 273 1867 273 1863 273 1863 273 1859 273 1859 273 1859 273 1856 273 1815 258 1785 251 1737 258 1678 269 1678 269 1678 269 1675 269 1675 269 1619 262 1545 247 1501 262 1475 269 1471 269 1471 269 1471 269 1467 269 1467 269 1419 262 1323 243 850 262"/></Shape>
+            <Shape><Polygon POINTS="854 229 850 140 2588 133 2592 243 2592 255 2532 277 2529 277 2525 277 2521 277 2481 255 2477 255 2462 255 2340 277 2336 277 2248 258 2233 255 2226 258 2189 277 2185 277 2181 277 2085 258 2078 258 2070 258 1956 273 1952 273 1948 273 1919 258 1904 251 1893 258 1871 273 1867 273 1863 273 1859 273 1856 273 1815 258 1785 251 1737 258 1678 269 1675 269 1619 262 1545 247 1501 262 1475 269 1471 269 1467 269 1419 262 1323 243 850 262"/></Shape>
 	    <String CONTENT="Versailles 17 may 1727"
                     HPOS="850"
                     VPOS="133"
                     WIDTH="1742"
                     HEIGHT="144"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2706"
+                   VPOS="162"
+                   WIDTH="159"
+                   HEIGHT="129"
+                   ID="eSc_textblock_7834b932"
+                   TAGREFS="BT1724">
+          <Shape><Polygon POINTS="2865 177 2865 291 2706 291 2721 162"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_446e69bf"
+                    TAGREFS="LT581"
+                    BASELINE="2717 280 2858 273" 
+                    HPOS="2706"
+                    VPOS="177"
+                    WIDTH="152"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="2717 280 2706 192 2847 177 2858 273 2858 310 2717 310"/></Shape>
+	    <String CONTENT="22"
+                    HPOS="2706"
+                    VPOS="177"
+                    WIDTH="152"
+                    HEIGHT="133"></String>
           </TextLine>
 
           
@@ -120,7 +147,7 @@
                     WIDTH="2425"
                     HEIGHT="196">
             <Shape><Polygon POINTS="547 1759 536 1655 791 1652 795 1652 795 1652 917 1674 1002 1648 1005 1648 1005 1648 1005 1648 1009 1648 1227 1655 1253 1637 1253 1633 1253 1633 1257 1633 1257 1633 1257 1633 1260 1633 1260 1633 1260 1633 1264 1633 1264 1633 1268 1633 1279 1637 1349 1655 1445 1633 1497 1618 1501 1618 1501 1618 1504 1618 1504 1618 1508 1618 1553 1629 1590 1637 1697 1626 1885 1603 1885 1603 1889 1603 1889 1603 1893 1603 1944 1618 1981 1629 2018 1618 2081 1596 2085 1596 2085 1596 2085 1596 2089 1596 2089 1596 2089 1596 2092 1596 2144 1615 2163 1618 2192 1615 2314 1589 2314 1589 2314 1589 2318 1589 2318 1589 2414 1607 2455 1615 2477 1607 2499 1596 2499 1596 2503 1596 2503 1596 2507 1596 2958 1596 2961 1663 2961 1688 2599 1703 2595 1703 2595 1703 2595 1703 2592 1703 2503 1681 2373 1714 2362 1714 2362 1714 2362 1714 2359 1714 2359 1714 2355 1714 2355 1714 2355 1714 2355 1714 2351 1714 2311 1685 2270 1718 2270 1718 2270 1718 2266 1718 2266 1718 2266 1718 2262 1718 2262 1718 2259 1718 2259 1718 2259 1718 2255 1718 2255 1718 2255 1718 2192 1688 2118 1722 2118 1722 2115 1722 2115 1722 2115 1722 2111 1722 2111 1722 1978 1700 1652 1725 1649 1725 1649 1725 1519 1714 1327 1755 1320 1755 1320 1755 1320 1755 1316 1755 1316 1755 1312 1755 1138 1729 987 1766 983 1766 983 1766 979 1766 979 1766 824 1751 547 1785"/></Shape>
-	    <String CONTENT="lettre ue j&#39;aurois envoyée au"
+	    <String CONTENT="lettre que j&#39;aurois envoyée au"
                     HPOS="536"
                     VPOS="1589"
                     WIDTH="2425"
@@ -329,33 +356,6 @@
                     VPOS="3396"
                     WIDTH="2352"
                     HEIGHT="192"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="2706"
-                   VPOS="162"
-                   WIDTH="159"
-                   HEIGHT="129"
-                   ID="eSc_textblock_7834b932"
-                   TAGREFS="BT1724">
-          <Shape><Polygon POINTS="2865 177 2865 291 2706 291 2721 162"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_446e69bf"
-                    TAGREFS="LT581"
-                    BASELINE="2717 280 2858 273" 
-                    HPOS="2706"
-                    VPOS="177"
-                    WIDTH="152"
-                    HEIGHT="133">
-            <Shape><Polygon POINTS="2717 280 2706 192 2847 177 2858 273 2858 310 2717 310"/></Shape>
-	    <String CONTENT="22"
-                    HPOS="2706"
-                    VPOS="177"
-                    WIDTH="152"
-                    HEIGHT="133"></String>
           </TextLine>
 
           

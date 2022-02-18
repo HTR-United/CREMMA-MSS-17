@@ -11,14 +11,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1722" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1722" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1760" LABEL="DamageZone:hole" DESCRIPTION="block type DamageZone:hole"/>
     <OtherTag ID="LT581" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT588" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="3339"
           HEIGHT="4435"
-          PHYSICAL_IMG_NR="25"
+          PHYSICAL_IMG_NR="19"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"

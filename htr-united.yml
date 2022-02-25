@@ -33,7 +33,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 14405
+  count: 14412
 - metric: files
   count: 20
 - metric: lines

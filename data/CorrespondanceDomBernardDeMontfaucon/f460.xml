@@ -36,17 +36,51 @@
           
           <TextLine ID="eSc_line_7c4c44d8"
                     TAGREFS="LT581"
-                    BASELINE="1656 1426 1760 1433" 
-                    HPOS="1649"
-                    VPOS="1319"
-                    WIDTH="114"
-                    HEIGHT="148">
-            <Shape><Polygon POINTS="1656 1426 1660 1319 1763 1319 1760 1433 1752 1467 1649 1456"/></Shape>
-	    <String CONTENT=""
-                    HPOS="1649"
-                    VPOS="1319"
-                    WIDTH="114"
-                    HEIGHT="148"></String>
+                    BASELINE="1656 1426 1786 1435" 
+                    HPOS="1645"
+                    VPOS="1330"
+                    WIDTH="140"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="1652 1422 1652 1330 1785 1334 1785 1433 1778 1470 1645 1452"/></Shape>
+	    <String CONTENT="35"
+                    HPOS="1645"
+                    VPOS="1330"
+                    WIDTH="140"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6e37f4f"
+                    TAGREFS="LT581"
+                    BASELINE="1629 1551 1774 1545" 
+                    HPOS="1612"
+                    VPOS="1430"
+                    WIDTH="159"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="1626 1548 1612 1456 1634 1433 1634 1430 1638 1430 1641 1430 1645 1430 1763 1448 1771 1544 1767 1555 1626 1559"/></Shape>
+	    <String CONTENT="51"
+                    HPOS="1612"
+                    VPOS="1430"
+                    WIDTH="159"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d61035b"
+                    TAGREFS="LT581"
+                    BASELINE="1617 1654 1780 1646" 
+                    HPOS="1604"
+                    VPOS="1522"
+                    WIDTH="174"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="1615 1652 1604 1522 1767 1526 1778 1644 1778 1659 1615 1659"/></Shape>
+	    <String CONTENT="86"
+                    HPOS="1604"
+                    VPOS="1522"
+                    WIDTH="174"
+                    HEIGHT="137"></String>
           </TextLine>
 
           

@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1722" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1760" LABEL="DamageZone:hole" DESCRIPTION="block type DamageZone:hole"/>
+    <OtherTag ID="BT1909" LABEL="StampZone:curatorial" DESCRIPTION="block type StampZone:curatorial"/><OtherTag ID="BT1760" LABEL="DamageZone:hole" DESCRIPTION="block type DamageZone:hole"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT581" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT588" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -59,7 +59,7 @@
                     WIDTH="929"
                     HEIGHT="156">
             <Shape><Polygon POINTS="2115 266 2103 181 3021 147 3032 229 3024 266 2847 251 2573 258 2477 288 2473 288 2473 288 2473 288 2473 288 2470 288 2470 288 2322 277 2292 295 2288 295 2288 295 2288 295 2285 295 2285 295 2285 295 2281 295 2281 295 2277 295 2207 277 2118 303"/></Shape>
-	    <String CONTENT="M. L&#39;Abbé Hulin chez Mgr"
+	    <String CONTENT="M. L&#39;Abbé Hulin chez Mgr̄"
                     HPOS="2103"
                     VPOS="147"
                     WIDTH="929"
@@ -366,7 +366,7 @@
                    WIDTH="610"
                    HEIGHT="498"
                    ID="eSc_textblock_3419efed"
-                   TAGREFS="BT1722">
+                   TAGREFS="BT1909">
           <Shape><Polygon POINTS="2087 523 2104 1021 2697 1005 2697 523"/></Shape>
           
         </TextBlock>

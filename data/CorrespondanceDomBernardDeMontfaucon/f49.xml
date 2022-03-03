@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1722" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1760" LABEL="DamageZone:hole" DESCRIPTION="block type DamageZone:hole"/>
+    <OtherTag ID="BT1909" LABEL="StampZone:curatorial" DESCRIPTION="block type StampZone:curatorial"/><OtherTag ID="BT1760" LABEL="DamageZone:hole" DESCRIPTION="block type DamageZone:hole"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT581" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT588" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -366,7 +366,7 @@
                    WIDTH="509"
                    HEIGHT="515"
                    ID="eSc_textblock_dfc318a8"
-                   TAGREFS="BT1722">
+                   TAGREFS="BT1909">
           <Shape><Polygon POINTS="1771 565 1771 1074 2280 1074 2280 559"/></Shape>
           
         </TextBlock>

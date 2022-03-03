@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1722" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1760" LABEL="DamageZone:hole" DESCRIPTION="block type DamageZone:hole"/>
+    <OtherTag ID="BT1909" LABEL="StampZone:curatorial" DESCRIPTION="block type StampZone:curatorial"/><OtherTag ID="BT1760" LABEL="DamageZone:hole" DESCRIPTION="block type DamageZone:hole"/><OtherTag ID="BT1724" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1721" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT581" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT588" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -628,7 +628,7 @@
                    WIDTH="594"
                    HEIGHT="507"
                    ID="eSc_textblock_4007907a"
-                   TAGREFS="BT1722">
+                   TAGREFS="BT1909">
           <Shape><Polygon POINTS="927 3460 804 3920 1398 3949 1351 3442"/></Shape>
           
           
@@ -639,7 +639,7 @@
                     VPOS="3706"
                     WIDTH="1328"
                     HEIGHT="182">
-            <Shape><Polygon POINTS="173 3817 173 3706 266 3710 266 3710 266 3710 270 3710 270 3710 403 3766 562 3762 628 3718 632 3718 632 3718 632 3718 632 3718 636 3718 636 3718 639 3718 639 3718 639 3718 643 3718 647 3718 810 3780 1124 3784 1198 3740 1202 3740 1202 3740 1202 3740 1205 3740 1205 3740 1209 3740 1494 3743 1494 3854 1490 3869 1131 3888 1128 3888 1128 3888 1128 3888 1124 3888 1124 3888 1120 3888 1120 3888 1087 3862 969 3884 969 3884 969 3884 965 3884 965 3884 965 3884 843 3858 721 3876 721 3876 717 3876 717 3876 717 3876 713 3876 713 3876 654 3851 654 3851 636 3851 273 3858 270 3858 270 3858 166 3836"/></Shape>
+            <Shape><Polygon POINTS="173 3817 173 3706 266 3710 270 3710 403 3766 562 3762 628 3718 632 3718 636 3718 639 3718 643 3718 647 3718 810 3780 1124 3784 1198 3740 1202 3740 1205 3740 1209 3740 1494 3743 1494 3854 1490 3869 1131 3888 1128 3888 1124 3888 1120 3888 1087 3862 969 3884 965 3884 843 3858 721 3876 717 3876 713 3876 654 3851 636 3851 273 3858 270 3858 166 3836"/></Shape>
 	    <String CONTENT="si il est en chemin je vous aurois bien"
                     HPOS="166"
                     VPOS="3706"

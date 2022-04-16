@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f181.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2800" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2794" LABEL="StampZone:curatorial" DESCRIPTION="block type StampZone:curatorial"/><OtherTag ID="BT2782" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2781" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT985" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT984" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4958"
+          HEIGHT="6750"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4958"
+                  HEIGHT="6750">
+        
+        <TextBlock HPOS="1840"
+                   VPOS="2340"
+                   WIDTH="714"
+                   HEIGHT="174"
+                   ID="eSc_textblock_ce58d54c"
+                   TAGREFS="BT2781">
+          <Shape><Polygon POINTS="1840 2514 1907 2340 2509 2362 2554 2491"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8b8ac9da"
+                    TAGREFS="LT984"
+                    BASELINE="1851 2480 2526 2463" 
+                    HPOS="1834"
+                    VPOS="2328"
+                    WIDTH="692"
+                    HEIGHT="248">
+            <Shape><Polygon POINTS="1851 2480 1834 2385 1941 2340 1941 2340 1947 2340 1947 2340 1952 2340 1952 2340 1952 2340 2110 2368 2374 2328 2374 2328 2380 2328 2380 2328 2380 2328 2386 2328 2504 2368 2526 2463 2526 2531 2296 2570 2296 2570 2290 2570 2116 2559 1924 2548 1857 2576"/></Shape>
+	    <String CONTENT="A Monsieur"
+                    HPOS="1834"
+                    VPOS="2328"
+                    WIDTH="692"
+                    HEIGHT="248"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1907"
+                   VPOS="2587"
+                   WIDTH="963"
+                   HEIGHT="399"
+                   ID="eSc_textblock_6890fcbb"
+                   TAGREFS="BT2781">
+          <Shape><Polygon POINTS="1907 2896 1975 2587 2802 2610 2870 2919 2825 2829 2690 2986"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_69b2ecd8"
+                    TAGREFS="LT984"
+                    BASELINE="1941 2705 2768 2705" 
+                    HPOS="1924"
+                    VPOS="2576"
+                    WIDTH="844"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="1941 2705 1924 2621 1997 2576 2003 2576 2003 2576 2003 2576 2009 2576 2009 2576 2014 2576 2284 2576 2284 2576 2284 2576 2290 2576 2290 2576 2290 2576 2296 2576 2296 2576 2296 2581 2335 2615 2335 2621 2442 2621 2442 2615 2481 2581 2481 2576 2481 2576 2487 2576 2487 2576 2487 2576 2493 2576 2493 2576 2498 2576 2498 2576 2768 2615 2768 2705 2768 2750 1941 2756"/></Shape>
+	    <String CONTENT="Monsieur servant"
+                    HPOS="1924"
+                    VPOS="2576"
+                    WIDTH="844"
+                    HEIGHT="180"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dec7267b"
+                    TAGREFS="LT984"
+                    BASELINE="1935 2801 2825 2790" 
+                    HPOS="1924"
+                    VPOS="2694"
+                    WIDTH="906"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="1935 2801 1924 2716 2808 2694 2825 2790 2830 2812 2616 2868 2611 2868 2611 2868 2605 2868 2605 2868 2408 2846 2329 2874 2329 2874 2324 2874 2324 2874 2318 2874 2318 2874 2318 2874 2312 2874 2312 2874 2217 2835 1935 2835"/></Shape>
+	    <String CONTENT="Conseiller au parlement"
+                    HPOS="1924"
+                    VPOS="2694"
+                    WIDTH="906"
+                    HEIGHT="180"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_855ebc86"
+                    TAGREFS="LT984"
+                    BASELINE="1935 2880 1972 2878 2228 2873" 
+                    HPOS="1913"
+                    VPOS="2784"
+                    WIDTH="309"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="1930 2880 1913 2801 2206 2784 2222 2868 2222 2975 2099 2992 2099 2992 2093 2992 2093 2992 2087 2992 1919 2941"/></Shape>
+	    <String CONTENT="de paris"
+                    HPOS="1913"
+                    VPOS="2784"
+                    WIDTH="309"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a408ccb"
+                    TAGREFS="LT984"
+                    BASELINE="2290 2964 2695 2947" 
+                    HPOS="2279"
+                    VPOS="2857"
+                    WIDTH="422"
+                    HEIGHT="270">
+            <Shape><Polygon POINTS="2290 2964 2279 2902 2459 2857 2459 2857 2459 2857 2464 2857 2684 2874 2695 2947 2701 3116 2521 3127 2515 3127 2515 3127 2515 3127 2509 3127 2509 3127 2504 3127 2504 3127 2504 3121 2487 3110 2453 3082 2290 3099"/></Shape>
+	    <String CONTENT="A paris"
+                    HPOS="2279"
+                    VPOS="2857"
+                    WIDTH="422"
+                    HEIGHT="270"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

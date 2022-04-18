@@ -30,7 +30,7 @@
                    WIDTH="2278"
                    HEIGHT="3274"
                    ID="eSc_textblock_3b816fda"
-                   TAGREFS="BT">
+                   TAGREFS="BT2781">
           <Shape><Polygon POINTS="3150 766 3105 1008 3224 1081 4390 1126 4458 1751 4368 2044 4480 2320 4413 2540 4503 3221 4435 4004 2225 4017 2280 3827 2381 3689 2354 1247 2339 1052 2372 878 2389 743"/></Shape>
           
           
@@ -375,7 +375,7 @@
           
           
           <TextLine ID="eSc_line_3e18f026"
-                    
+                    TAGREFS="LT984"
                     BASELINE="3736 3961 4402 3948" 
                     HPOS="3731"
                     VPOS="3839"

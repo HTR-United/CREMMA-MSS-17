@@ -239,7 +239,7 @@
                     WIDTH="1683"
                     HEIGHT="246">
             <Shape><Polygon POINTS="2643 4586 2621 4498 2725 4460 2725 4460 2731 4460 2731 4460 2736 4460 2736 4460 2736 4460 2741 4460 2741 4460 2785 4481 2813 4449 2818 4449 2818 4443 2818 4443 2824 4443 2824 4443 2824 4443 2829 4443 2829 4443 2835 4443 3120 4449 3197 4421 3197 4421 3202 4421 3202 4421 3208 4421 3208 4421 3208 4421 3213 4421 3213 4421 3213 4421 3219 4421 3219 4421 3251 4454 3251 4454 3257 4454 3367 4410 3367 4410 3372 4410 3372 4410 3378 4410 3378 4410 3378 4410 3383 4410 3383 4410 3454 4438 3465 4443 3581 4432 3964 4383 3964 4383 3970 4383 3970 4383 3970 4383 3975 4383 4030 4399 4052 4405 4085 4394 4195 4361 4200 4361 4200 4361 4200 4361 4206 4361 4206 4361 4206 4361 4293 4383 4304 4487 4304 4525 2643 4607"/></Shape>
-	    <String CONTENT="neutralité. Le Pape est un ancipiti &amp;"
+	    <String CONTENT="neutralité. Le Pape est in ancipiti &amp;"
                     HPOS="2621"
                     VPOS="4361"
                     WIDTH="1683"
@@ -341,7 +341,7 @@
                     WIDTH="1651"
                     HEIGHT="203">
             <Shape><Polygon POINTS="2703 5227 2692 5133 4326 5062 4343 5150 4337 5183 2703 5265"/></Shape>
-	    <String CONTENT="Turcs sont sortis par me mais moins"
+	    <String CONTENT="Turcs sont sortis par mer mais moins"
                     HPOS="2692"
                     VPOS="5062"
                     WIDTH="1651"
@@ -502,6 +502,43 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="4063"
+                   VPOS="3105"
+                   WIDTH="215"
+                   HEIGHT="140"
+                   ID="eSc_textblock_ac78a830"
+                   TAGREFS="BT2782">
+          <Shape><Polygon POINTS="4063 3105 4063 3245 4278 3245 4278 3105"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_43f29fc2"
+                    TAGREFS="LT984"
+                    BASELINE="4080 3183 4233 3183" 
+                    HPOS="4080"
+                    VPOS="3084"
+                    WIDTH="153"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="4080 3183 4080 3084 4233 3084 4233 3183 4233 3216 4080 3221"/></Shape>
+	    <String CONTENT="411"
+                    HPOS="4080"
+                    VPOS="3084"
+                    WIDTH="153"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4080"
+                   VPOS="6074"
+                   WIDTH="216"
+                   HEIGHT="169"
+                   ID="eSc_textblock_e469bf3e"
+                   TAGREFS="BT2782">
+          <Shape><Polygon POINTS="4110 6074 4080 6243 4296 6243 4296 6074"/></Shape>
+          
           
           <TextLine ID="eSc_line_eb19df3f"
                     TAGREFS="LT984"
@@ -521,16 +558,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="4063"
-                   VPOS="3105"
-                   WIDTH="215"
-                   HEIGHT="140"
-                   ID="eSc_textblock_ac78a830"
-                   TAGREFS="BT2782">
-          <Shape><Polygon POINTS="4063 3105 4063 3245 4278 3245 4278 3105"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="2293"
                    VPOS="5676"
                    WIDTH="536"
@@ -541,38 +568,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="4080"
-                   VPOS="6074"
-                   WIDTH="216"
-                   HEIGHT="169"
-                   ID="eSc_textblock_e469bf3e"
-                   TAGREFS="BT2782">
-          <Shape><Polygon POINTS="4110 6074 4080 6243 4296 6243 4296 6074"/></Shape>
-          
-        </TextBlock>
-        
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_43f29fc2"
-                    
-                    BASELINE="4080 3183 4233 3183" 
-                    HPOS="4080"
-                    VPOS="3084"
-                    WIDTH="153"
-                    HEIGHT="137">
-            <Shape><Polygon POINTS="4080 3183 4080 3084 4233 3084 4233 3183 4233 3216 4080 3221"/></Shape>
-	    <String CONTENT="411"
-                    HPOS="4080"
-                    VPOS="3084"
-                    WIDTH="153"
-                    HEIGHT="137"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

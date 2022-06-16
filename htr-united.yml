@@ -21,7 +21,7 @@ authors:
   surname: Jade
   roles:
   - transcriber
-description: 'Various Manuscripts of the 17th century'
+description: Various Manuscripts of the 17th century
 language:
 - fra
 script:
@@ -39,11 +39,11 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 14416
+  count: 28300
 - metric: files
-  count: 20
+  count: 49
 - metric: lines
-  count: 383
+  count: 779
 - metric: regions
-  count: 46
+  count: 99
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."

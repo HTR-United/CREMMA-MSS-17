@@ -130,13 +130,13 @@
           
           
           <TextLine ID="eSc_line_957f4963"
-                    
+                    TAGREFS="LT1262"
                     BASELINE="2583 1321 2688 1316" 
                     HPOS="2567"
                     VPOS="1104"
                     WIDTH="119"
                     HEIGHT="231">
-            <Shape><Polygon POINTS="2582 1320 2582 1327 2683 1335 2686 1313 2665 1104 2567 1122 2582 1320"/></Shape>
+            <Shape><Polygon POINTS="2582 1327 2683 1335 2686 1313 2665 1104 2567 1122 2582 1320"/></Shape>
 	    <String CONTENT="16"
                     HPOS="2567"
                     VPOS="1104"

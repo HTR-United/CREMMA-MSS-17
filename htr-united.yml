@@ -13,12 +13,12 @@ authors:
   roles:
   - project-manager
   - quality-control
-- name: "Mazoué"
-  surname: "Anaïs
+- name: Faure
+  surname: Margaux
   roles:
   - transcriber
-- name: "Nordindr"
-  surname: "Jade"
+- name: Norindr
+  surname: Jade
   roles:
   - transcriber
 description: 'Various Manuscripts of the 17th century'

@@ -13,9 +13,15 @@ authors:
   roles:
   - project-manager
   - quality-control
-description: 'Manuscripts of the 17th century
-
-  '
+- name: Faure
+  surname: Margaux
+  roles:
+  - transcriber
+- name: Norindr
+  surname: Jade
+  roles:
+  - transcriber
+description: 'Various Manuscripts of the 17th century'
 language:
 - fra
 script:

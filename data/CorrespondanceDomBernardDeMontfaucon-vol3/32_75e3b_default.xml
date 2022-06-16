@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="BT3939" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1332" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -26,29 +26,12 @@
                   HEIGHT="4336">
         
         <TextBlock HPOS="316"
-                   VPOS="101"
+                   VPOS="1179"
                    WIDTH="2737"
-                   HEIGHT="3494"
+                   HEIGHT="2416"
                    ID="eSc_textblock_a98fa062"
                    TAGREFS="BT3694">
-          <Shape><Polygon POINTS="3040 2997 2256 3046 2137 3194 2094 3392 1649 3479 1472 3595 1333 3405 1070 3266 994 3233 316 3227 390 1445 593 1214 1583 101 3036 131 3053 1244"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_b2bcc027"
-                    TAGREFS="LT1262"
-                    BASELINE="1580 238 3027 249" 
-                    HPOS="1576"
-                    VPOS="126"
-                    WIDTH="1451"
-                    HEIGHT="177">
-            <Shape><Polygon POINTS="2842 166 2792 144 2763 133 2759 133 2756 133 2752 133 2748 133 2734 148 2705 169 2578 169 2557 148 2549 144 2549 140 2546 140 2542 140 2539 140 2535 140 2513 148 2484 162 2463 148 2452 140 2448 140 2445 140 2275 130 2271 130 2267 130 2209 151 2188 162 2180 151 2159 133 2159 130 2155 130 2152 130 2148 130 1931 155 1927 155 1924 155 1786 126 1783 126 1779 126 1775 126 1775 130 1743 158 1739 162 1602 162 1580 213 1580 238 1576 278 1667 292 1671 292 1674 292 1678 292 1696 281 1725 263 1772 281 1797 292 1801 292 1804 292 1808 292 1812 292 1819 281 1833 271 1866 285 1880 289 1884 289 1888 289 1920 285 2061 263 2199 263 2224 289 2228 292 2228 296 2231 296 2235 296 2238 299 2300 299 2300 296 2303 296 2322 292 2401 267 2463 285 2466 285 2470 285 2712 271 2752 296 2752 299 2756 299 2759 299 2763 303 3023 303 3027 249 3020 162 3002 144"/></Shape>
-	    <String CONTENT="a Breviande le 28 octobre 1708."
-                    HPOS="1576"
-                    VPOS="126"
-                    WIDTH="1451"
-                    HEIGHT="177"></String>
-          </TextLine>
-
+          <Shape><Polygon POINTS="3040 2997 2256 3046 2137 3194 2094 3392 1649 3479 1472 3595 1333 3405 1070 3266 994 3233 316 3227 390 1445 593 1214 624 1179 3052 1179 3053 1244"/></Shape>
           
           
           <TextLine ID="eSc_line_d1761ee9"
@@ -251,6 +234,60 @@
                     VPOS="3201"
                     WIDTH="695"
                     HEIGHT="311"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1418"
+                   VPOS="101"
+                   WIDTH="1620"
+                   HEIGHT="185"
+                   ID="eSc_textblock_f4f0fc44"
+                   TAGREFS="BT3694">
+          <Shape><Polygon POINTS="1583 101 3036 131 3038 286 1418 286"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b2bcc027"
+                    TAGREFS="LT1262"
+                    BASELINE="1580 238 3027 249" 
+                    HPOS="1576"
+                    VPOS="126"
+                    WIDTH="1451"
+                    HEIGHT="177">
+            <Shape><Polygon POINTS="2842 166 2792 144 2763 133 2759 133 2756 133 2752 133 2748 133 2734 148 2705 169 2578 169 2557 148 2549 144 2549 140 2546 140 2542 140 2539 140 2535 140 2513 148 2484 162 2463 148 2452 140 2448 140 2445 140 2275 130 2271 130 2267 130 2209 151 2188 162 2180 151 2159 133 2159 130 2155 130 2152 130 2148 130 1931 155 1927 155 1924 155 1786 126 1783 126 1779 126 1775 126 1775 130 1743 158 1739 162 1602 162 1580 213 1580 238 1576 278 1667 292 1671 292 1674 292 1678 292 1696 281 1725 263 1772 281 1797 292 1801 292 1804 292 1808 292 1812 292 1819 281 1833 271 1866 285 1880 289 1884 289 1888 289 1920 285 2061 263 2199 263 2224 289 2228 292 2228 296 2231 296 2235 296 2238 299 2300 299 2300 296 2303 296 2322 292 2401 267 2463 285 2466 285 2470 285 2712 271 2752 296 2752 299 2756 299 2759 299 2763 303 3023 303 3027 249 3020 162 3002 144"/></Shape>
+	    <String CONTENT="a Breviande le 28 octobre 1708."
+                    HPOS="1576"
+                    VPOS="126"
+                    WIDTH="1451"
+                    HEIGHT="177"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2854"
+                   VPOS="338"
+                   WIDTH="134"
+                   HEIGHT="114"
+                   ID="eSc_textblock_cfb4f49d"
+                   TAGREFS="BT3939">
+          <Shape><Polygon POINTS="2854 338 2854 452 2988 452 2988 338"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_77cb6764"
+                    TAGREFS="LT1262"
+                    BASELINE="2874 409 2962 406" 
+                    HPOS="2868"
+                    VPOS="343"
+                    WIDTH="90"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2871 433 2958 433 2958 404 2951 357 2868 343 2871 408"/></Shape>
+	    <String CONTENT="10"
+                    HPOS="2868"
+                    VPOS="343"
+                    WIDTH="90"
+                    HEIGHT="90"></String>
           </TextLine>
 
           

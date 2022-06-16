@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="BT3939" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1332" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -359,17 +359,17 @@
           
           <TextLine ID="eSc_line_080c6225"
                     TAGREFS="LT1262"
-                    BASELINE="116 3111 1209 3025" 
-                    HPOS="102"
+                    BASELINE="116 3111 1212 3044" 
+                    HPOS="105"
                     VPOS="2955"
                     WIDTH="1104"
-                    HEIGHT="197">
-            <Shape><Polygon POINTS="112 3108 116 3152 1202 3053 1206 3024 1199 2973 1078 2955 1075 2955 1071 2955 1067 2955 1067 2959 1064 2959 1045 2980 1045 2984 969 2984 954 2984 874 2962 871 2962 867 2962 798 2969 794 2969 790 2969 790 2973 787 2973 769 2999 761 3006 725 3006 714 3002 685 2977 681 2977 677 2977 674 2977 583 2984 579 2984 575 2984 575 2988 572 2988 553 3010 550 3017 535 3010 506 3002 502 3002 499 3002 495 3002 492 3002 492 3006 488 3006 481 3013 473 3028 262 3039 225 3031 182 3017 178 3017 174 3017 171 3017 102 3035 112 3108"/></Shape>
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="112 3108 112 3126 233 3137 236 3137 1209 3061 1209 3042 1202 2984 1144 2984 1093 2955 1089 2955 1086 2955 1082 2955 1078 2955 969 2984 798 2973 794 2973 790 2973 787 2973 787 2977 783 2977 761 3006 597 2984 594 2984 590 2984 586 2984 586 2988 553 3017 510 3002 506 3002 502 3002 499 3002 495 3002 470 3024 466 3028 218 3039 215 3039 134 3013 131 3013 127 3013 123 3013 120 3013 120 3017 116 3017 105 3028 112 3108"/></Shape>
 	    <String CONTENT="bien, et m&#39;a chargé de vous faire"
-                    HPOS="102"
+                    HPOS="105"
                     VPOS="2955"
                     WIDTH="1104"
-                    HEIGHT="197"></String>
+                    HEIGHT="182"></String>
           </TextLine>
 
           

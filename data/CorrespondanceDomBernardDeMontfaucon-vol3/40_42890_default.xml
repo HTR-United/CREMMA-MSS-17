@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="BT3939" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1332" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -26,12 +26,12 @@
                   HEIGHT="4351">
         
         <TextBlock HPOS="406"
-                   VPOS="41"
-                   WIDTH="2738"
-                   HEIGHT="3262"
+                   VPOS="72"
+                   WIDTH="2731"
+                   HEIGHT="3231"
                    ID="eSc_textblock_149fd02c"
                    TAGREFS="BT3694">
-          <Shape><Polygon POINTS="3130 3129 2843 3201 2695 3303 2582 3303 2521 3216 2361 3187 478 3216 406 1624 507 797 1360 72 3110 41 3115 725 3144 768"/></Shape>
+          <Shape><Polygon POINTS="3130 3129 2843 3201 2695 3303 2582 3303 2521 3216 2361 3187 478 3216 406 1624 507 797 1360 72 2730 108 2842 698 3137 691"/></Shape>
           
           
           <TextLine ID="eSc_line_2501c1fa"
@@ -268,6 +268,33 @@
                     VPOS="3002"
                     WIDTH="2630"
                     HEIGHT="250"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2823"
+                   VPOS="93"
+                   WIDTH="165"
+                   HEIGHT="104"
+                   ID="eSc_textblock_1d887bee"
+                   TAGREFS="BT3939">
+          <Shape><Polygon POINTS="2823 93 2823 197 2988 197 2988 93"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_28627295"
+                    
+                    BASELINE="2846 170 2971 170" 
+                    HPOS="2843"
+                    VPOS="61"
+                    WIDTH="127"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="2843 166 2843 217 2970 210 2970 166 2970 83 2909 61 2905 61 2901 61 2898 61 2843 83 2843 166"/></Shape>
+	    <String CONTENT="17"
+                    HPOS="2843"
+                    VPOS="61"
+                    WIDTH="127"
+                    HEIGHT="156"></String>
           </TextLine>
 
           

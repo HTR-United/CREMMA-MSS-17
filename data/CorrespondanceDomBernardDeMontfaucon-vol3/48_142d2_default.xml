@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="BT3939" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1332" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -438,6 +438,33 @@
                     VPOS="3762"
                     WIDTH="367"
                     HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2627"
+                   VPOS="817"
+                   WIDTH="172"
+                   HEIGHT="147"
+                   ID="eSc_textblock_76ca2660"
+                   TAGREFS="BT3939">
+          <Shape><Polygon POINTS="2627 817 2627 964 2799 964 2799 817"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_479cd0c6"
+                    TAGREFS="LT1262"
+                    BASELINE="2663 917 2763 921" 
+                    HPOS="2657"
+                    VPOS="817"
+                    WIDTH="104"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="2661 817 2661 914 2657 936 2758 929 2761 918 2761 838 2675 817 2661 817"/></Shape>
+	    <String CONTENT="21"
+                    HPOS="2657"
+                    VPOS="817"
+                    WIDTH="104"
+                    HEIGHT="119"></String>
           </TextLine>
 
           

@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="BT3939" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3896" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT3739" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3694" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1332" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1275" LABEL="Catchwords" DESCRIPTION="line type Catchwords"/><OtherTag ID="LT1262" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -35,13 +35,13 @@
           
           
           <TextLine ID="eSc_line_cff9c2fc"
-                    
+                    TAGREFS="LT1262"
                     BASELINE="822 1034 2963 1055" 
                     HPOS="815"
                     VPOS="946"
                     WIDTH="2146"
                     HEIGHT="167">
-            <Shape><Polygon POINTS="815 1066 1245 1102 1249 1102 1252 1102 1256 1102 1293 1077 1344 1073 1507 1062 1566 1077 1639 1095 1642 1095 1646 1095 1650 1095 1682 1077 1686 1077 1711 1092 1715 1092 1719 1092 1897 1081 2076 1070 2090 1084 2119 1106 2119 1110 2123 1110 2127 1110 2130 1113 2200 1113 2200 1110 2203 1110 2207 1110 2240 1084 2251 1077 2258 1084 2283 1102 2287 1102 2291 1102 2294 1102 2298 1102 2302 1102 2302 1099 2316 1084 2331 1070 2374 1088 2436 1110 2440 1110 2538 1113 2542 1113 2546 1113 2549 1113 2549 1110 2571 1088 2586 1073 2666 1073 2954 1092 2961 1051 2957 997 2852 997 2844 993 2786 960 2782 960 2779 960 2775 960 2709 990 2699 993 2669 990 2531 960 2527 960 2418 982 2378 990 2360 982 2309 957 2305 957 2302 957 2298 957 2243 979 2214 990 2156 975 2057 953 2054 953 1773 957 1770 957 1766 957 1766 960 1759 968 1737 986 1595 986 1551 960 1526 950 1522 950 1449 950 1446 950 1442 950 1424 960 1376 982 1136 982 1110 957 1107 957 1103 957 1100 957 1096 957 1092 957 1059 982 954 982 823 946 819 1033 815 1066"/></Shape>
+            <Shape><Polygon POINTS="1245 1102 1249 1102 1252 1102 1256 1102 1293 1077 1344 1073 1507 1062 1566 1077 1639 1095 1642 1095 1646 1095 1650 1095 1682 1077 1686 1077 1711 1092 1715 1092 1719 1092 1897 1081 2076 1070 2090 1084 2119 1106 2119 1110 2123 1110 2127 1110 2130 1113 2200 1113 2200 1110 2203 1110 2207 1110 2240 1084 2251 1077 2258 1084 2283 1102 2287 1102 2291 1102 2294 1102 2298 1102 2302 1102 2302 1099 2316 1084 2331 1070 2374 1088 2436 1110 2440 1110 2538 1113 2542 1113 2546 1113 2549 1113 2549 1110 2571 1088 2586 1073 2666 1073 2954 1092 2961 1051 2957 997 2852 997 2844 993 2786 960 2782 960 2779 960 2775 960 2709 990 2699 993 2669 990 2531 960 2527 960 2418 982 2378 990 2360 982 2309 957 2305 957 2302 957 2298 957 2243 979 2214 990 2156 975 2057 953 2054 953 1773 957 1770 957 1766 957 1766 960 1759 968 1737 986 1595 986 1551 960 1526 950 1522 950 1449 950 1446 950 1442 950 1424 960 1376 982 1136 982 1110 957 1107 957 1103 957 1100 957 1096 957 1092 957 1059 982 954 982 823 946 819 1033 815 1066"/></Shape>
 	    <String CONTENT="J&#39;ay sçû apres cela, que M^r le Doien vous ecrit par cette"
                     HPOS="815"
                     VPOS="946"
@@ -52,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_beff6029"
-                    
+                    TAGREFS="LT1262"
                     BASELINE="827 1179 2989 1179" 
                     HPOS="826"
                     VPOS="1092"
@@ -69,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_565b4919"
-                    
+                    TAGREFS="LT1262"
                     BASELINE="833 1324 2984 1303" 
                     HPOS="826"
                     VPOS="1197"
@@ -86,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_acb9dd5d"
-                    
+                    TAGREFS="LT1262"
                     BASELINE="827 1453 2518 1422" 
                     HPOS="823"
                     VPOS="1339"
@@ -98,6 +98,33 @@
                     VPOS="1339"
                     WIDTH="1693"
                     HEIGHT="215"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2667"
+                   VPOS="99"
+                   WIDTH="142"
+                   HEIGHT="135"
+                   ID="eSc_textblock_c9e7ae66"
+                   TAGREFS="BT3939">
+          <Shape><Polygon POINTS="2684 99 2667 230 2809 234 2809 99"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_87f22c7d"
+                    TAGREFS="LT1262"
+                    BASELINE="2676 207 2798 203" 
+                    HPOS="2673"
+                    VPOS="101"
+                    WIDTH="124"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="2742 101 2706 101 2673 185 2673 203 2673 225 2797 218 2797 200 2790 101 2779 101"/></Shape>
+	    <String CONTENT="44"
+                    HPOS="2673"
+                    VPOS="101"
+                    WIDTH="124"
+                    HEIGHT="124"></String>
           </TextLine>
 
           

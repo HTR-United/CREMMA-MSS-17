@@ -39,7 +39,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 38621
+  count: 39150
 - metric: files
   count: 60
 - metric: lines
@@ -47,4 +47,97 @@ volume:
 - metric: regions
   count: 138
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
-production-software: "eScriptorium + Kraken"
+production-software: eScriptorium + Kraken
+characters:
+  mode: NFD
+  members:
+  - e
+  - s
+  - r
+  - u
+  - n
+  - a
+  - i
+  - o
+  - t
+  - l
+  - d
+  - c
+  - m
+  - p
+  - v
+  - q
+  - ','
+  - ''''
+  - b
+  - "\u0301"
+  - f
+  - g
+  - h
+  - .
+  - y
+  - j
+  - M
+  - "\u0300"
+  - x
+  - R
+  - P
+  - V
+  - J
+  - C
+  - L
+  - '1'
+  - z
+  - E
+  - S
+  - '&'
+  - ^
+  - A
+  - '2'
+  - "\u0302"
+  - D
+  - B
+  - T
+  - '7'
+  - "\u0308"
+  - I
+  - ;
+  - '4'
+  - '6'
+  - '-'
+  - F
+  - '0'
+  - '3'
+  - G
+  - '5'
+  - "\u0327"
+  - '8'
+  - '?'
+  - N
+  - '['
+  - ']'
+  - '9'
+  - H
+  - ':'
+  - O
+  - "\u0304"
+  - W
+  - U
+  - "\u0303"
+  - "\u0153"
+  - '>'
+  - <
+  - "\xB0"
+  - Q
+  - X
+  - k
+  - "\uA757"
+  - (
+  - )
+  - w
+  - "\u03C2"
+  - "\_"
+  - '#'
+  - Z
+  - "\u03B5"
+  - "\u03D5"

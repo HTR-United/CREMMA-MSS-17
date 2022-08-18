@@ -21,6 +21,14 @@ authors:
   surname: Jade
   roles:
   - transcriber
+- name: Mazoue
+  surname: Anais
+  roles:
+  - transcriber
+- name: Davoury
+  surname: Baudoin
+  roles:
+  - transcriber
 description: Various Manuscripts of the 17th century
 language:
 - fra

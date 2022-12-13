@@ -1,3 +1,5 @@
+<img src="./cremma_mss-17.png" width="200" align=right>
+
 CREMMA - A repository of 17th century manuscripts
 =================================================
 

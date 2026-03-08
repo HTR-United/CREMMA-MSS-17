@@ -1,63 +1,31 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: CREMMA Manuscrits du 17e
-url: https://github.com/HTR-United/CREMMA-MSS-17
-project-name: CREMMA
 authors:
-- name: "Cl\xE9rice"
+- name: Clérice
+  roles:
+  - project-manager
+  - quality-control
   surname: Thibault
+- name: Chagué
   roles:
   - project-manager
   - quality-control
-- name: "Chagu\xE9"
   surname: Alix
-  roles:
-  - project-manager
-  - quality-control
 - name: Faure
+  roles:
+  - transcriber
   surname: Margaux
-  roles:
-  - transcriber
 - name: Norindr
+  roles:
+  - transcriber
   surname: Jade
-  roles:
-  - transcriber
 - name: Mazoue
+  roles:
+  - transcriber
   surname: Anais
-  roles:
-  - transcriber
 - name: Davoury
-  surname: Baudoin
   roles:
   - transcriber
-description: Various Manuscripts of the 17th century
-language:
-- fra
-script:
-- iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1600'
-  notAfter: '1699'
-hands:
-  count: 1-per-folder
-  precision: exact
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-- metric: characters
-  count: 81909
-- metric: files
-  count: 111
-- metric: lines
-  count: 2245
-- metric: regions
-  count: 264
-transcription-guidelines: "Abr\xE9viations conserv\xE9es."
-production-software: eScriptorium + Kraken
+  surname: Baudoin
 characters:
-  mode: NFD
   members:
   - e
   - s
@@ -78,14 +46,14 @@ characters:
   - .
   - ','
   - y
-  - ''''
+  - "'"
   - f
   - b
   - g
-  - "\u0301"
+  - ́
   - h
   - j
-  - "\u0303"
+  - ̃
   - M
   - x
   - R
@@ -94,7 +62,7 @@ characters:
   - '1'
   - J
   - ^
-  - "\u0300"
+  - ̀
   - P
   - L
   - S
@@ -119,8 +87,8 @@ characters:
   - '0'
   - '?'
   - '-'
-  - "\u0302"
-  - "\u0308"
+  - ̂
+  - ̈
   - '9'
   - '5'
   - ;
@@ -129,31 +97,63 @@ characters:
   - '8'
   - ':'
   - F
-  - "\u0327"
+  - ̧
   - )
   - (
   - Q
   - O
   - H
   - W
-  - "\u0153"
-  - "\u2038"
-  - "\u204A"
+  - œ
+  - ‸
+  - ⁊
   - U
-  - "\u0304"
+  - ̄
   - /
-  - "\uA757"
+  - ꝗ
   - +
   - k
-  - "\xB0"
-  - "\_"
+  - °
+  -  
   - w
-  - "\u05DD"
+  - ם
   - Z
-  - "\u03C2"
+  - ς
   - '#'
-  - "\xE6"
-  - "\uA759"
-  - "\u0363"
-  - "\u03B5"
-  - "\u03D5"
+  - æ
+  - ꝙ
+  - ͣ
+  - ε
+  - ϕ
+  mode: NFD
+description: Various Manuscripts of the 17th century
+format: Alto-XML
+hands:
+  count: 1-per-folder
+  precision: exact
+language:
+- fra
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: CREMMA
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1699'
+  notBefore: '1600'
+title: CREMMA Manuscrits du 17e
+transcription-guidelines: Abréviations conservées.
+url: https://github.com/HTR-United/CREMMA-MSS-17
+volume:
+- count: 81909
+  metric: characters
+- count: 111
+  metric: files
+- count: 2245
+  metric: lines
+- count: 264
+  metric: regions
